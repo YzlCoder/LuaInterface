@@ -1,0 +1,11 @@
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\main.lua
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\player.lua
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\script.lua
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\luanet.dll
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\LuaInterface.dll
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\TestLuaInterface.exe.config
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\TestLuaInterface.exe
+F:\C#\LuaInterface\LuaInterface\bin\x86\Debug\TestLuaInterface.pdb
+F:\C#\LuaInterface\LuaInterface\obj\x86\Debug\TestLuaInterface.exe
+F:\C#\LuaInterface\LuaInterface\obj\x86\Debug\TestLuaInterface.pdb
+F:\C#\LuaInterface\LuaInterface\obj\x86\Debug\LuaInterface.csprojResolveAssemblyReference.cache

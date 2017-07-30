@@ -1,0 +1,5 @@
+F:\C#\LuaInterface\TestLibrary\bin\Debug\TestLibrary.dll
+F:\C#\LuaInterface\TestLibrary\bin\Debug\TestLibrary.pdb
+F:\C#\LuaInterface\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+F:\C#\LuaInterface\TestLibrary\obj\Debug\TestLibrary.dll
+F:\C#\LuaInterface\TestLibrary\obj\Debug\TestLibrary.pdb

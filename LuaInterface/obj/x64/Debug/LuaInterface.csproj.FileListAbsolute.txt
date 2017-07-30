@@ -1,0 +1,10 @@
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\main.lua
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\player.lua
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\script.lua
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\luanet.dll
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\LuaInterface.exe.config
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\LuaInterface.exe
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\LuaInterface.pdb
+F:\C#\LuaInterface\LuaInterface\bin\x64\Debug\LuaInterface.dll
+F:\C#\LuaInterface\LuaInterface\obj\x64\Debug\LuaInterface.exe
+F:\C#\LuaInterface\LuaInterface\obj\x64\Debug\LuaInterface.pdb
